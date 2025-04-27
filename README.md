@@ -1,1 +1,20 @@
-# cs300-projects
+What was the problem you were solving in the projects for this course?
+
+In Project One, I worked on expanding pseudocode to meet the Computer Science department's needs at ABCU. The project focused on two key tasks: printing a list of Computer Science courses in alphanumeric order and displaying detailed course information, including prerequisites, for a specific course. I had to write pseudocode to open and read course data from a file, create course objects, implement a menu for user interaction, and sort and display the courses. A major part of the project was analyzing the runtime and memory performance of different data structures (vector, hash table, and tree) using Big O notation to figure out which structure would be the best fit.  
+In Project Two, the goal shifted to building an actual command-line C++ program that could manage and interact with course data efficiently. This involved reading course information from a file, storing it properly, setting up a user-friendly menu system with options like loading data, printing course lists, finding course details, and exiting the program. I also had to apply coding best practices like error handling, using clear naming conventions, and writing helpful comments to make the code easy to read and maintain.
+
+How did you approach the problem? Consider why data structures are important to understand.
+
+I tackled the projects by carefully reviewing all the requirements, going over my earlier work, and drafting pseudocode for each of the three data structure options. I performed a Big O analysis for each structure to understand their runtime efficiency. Evaluating the pros and cons of vectors, hash tables, and trees helped me choose the best one for the job. Understanding data structures was essential because they directly affect how efficiently a program runs, how much memory it uses, and how well it adapts to different types of problems. Knowing the right structure to use helped me design faster, more reliable solutions that could easily scale or adjust if project needs changed.
+
+How did you overcome any roadblocks you encountered while going through the activities or project?
+
+Whenever I hit a roadblock, my first strategy was to step away from the screen for a while and give my mind a chance to reset. If I still couldn’t figure it out after a break, I would use the 24/7 online tutoring services provided by the school to get real-time help. If neither self-study nor tutoring solved the problem, I would reach out directly to my professor for further clarification and guidance. Using a combination of these strategies made it much easier to keep making progress even when I ran into challenges.
+
+How has your work on this project expanded your approach to designing software and developing programs?
+
+Working on these projects really expanded the way I think about software design. It taught me to look at programming tasks from a bigger-picture perspective, not just as writing code but as building systems that need to be well-organized, efficient, and user-friendly. I started paying a lot more attention to planning the architecture of my programs before jumping into coding, thinking about how users will interact with them and how each part fits together.
+
+How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+
+These projects, especially now that I’m a senior in college, have really transformed my coding habits. I've learned how important it is to write modular code, breaking problems down into smaller, manageable pieces to make my programs easier to update and maintain. I became much more consistent with naming conventions and added comments to explain my logic, which helps both me and anyone else who reads my code later. I also started using version control tools like Git to keep track of changes, which is crucial when working with teams. Testing early and often has become part of my routine, and I’m more comfortable with refactoring my code to improve its clarity and performance. I've also started designing my programs with flexibility in mind so that they can handle future updates without major rewrites. Overall, I now focus much more on writing clean, professional-quality code that meets industry standards.
